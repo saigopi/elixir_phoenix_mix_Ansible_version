@@ -1,0 +1,9 @@
+# Created by https://www.gitignore.io/api/git,ansible
+
+### Ansible ###
+*.retry
+
+### Git ###
+*.orig
+
+# End of https://www.gitignore.io/api/git,ansible
